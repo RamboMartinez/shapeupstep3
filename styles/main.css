@@ -76,6 +76,7 @@ aside li {
 footer{
     background-color: steelblue;
     height: 100px;
+    text-align: center;
 }
 
 
@@ -84,4 +85,5 @@ footer p{
     text-align: center;
     color: white;
     margin-top: 50px;
+    
 }
